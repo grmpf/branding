@@ -1,0 +1,37 @@
+{
+  "name": "branding",
+  "version": "0.0.1",
+  "description": "",
+  "sideEffects": false,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grmpf/branding.git"
+  },
+  "author": "grmpf",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/grmpf/branding/issues"
+  },
+  "homepage": "https://github.com/grmpf/branding#readme",
+  "prettier": {
+    "semi": false,
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "jsxBracketSameLine": true,
+    "tabWidth": 2,
+    "printWidth": 120
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "react": ">=16.13",
+    "react-dom": ">=16.13"
+  }
+}
