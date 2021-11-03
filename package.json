@@ -1,7 +1,10 @@
 {
   "name": "branding",
   "version": "0.0.1",
-  "description": "",
+  "description": "...",
+  "keywords": [
+    "logo"
+  ],
   "sideEffects": false,
   "scripts": {
   },
