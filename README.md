@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/grmpf/branding">
+  <a href="https://github.com/grmpf/branding#readme">
     <img src="https://github.com/grmpf/branding/raw/master/img/R_1_544_r.png" height="128" />
   </a>
 </div>
