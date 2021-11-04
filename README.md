@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/grmpf/branding#readme">
-		<img src="https://github.com/grmpf/branding/raw/master/img/R_1_544_r.png" height="128" />
+		<img src="https://github.com/grmpf/branding/raw/master/img/R_1_544_r.png" height="136" />
 		</a>
 </div>
 <h1 align="center">Branding</h1>
